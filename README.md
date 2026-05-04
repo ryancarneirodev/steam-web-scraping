@@ -58,6 +58,8 @@ CONFIG_COUNTRY = {
 }
 ```
 
+**Steam Web API:** Valve has [specific terms](https://steamcommunity.com/dev/apiterms) that prohibit commercial use of their data without authorization, aggressive scraping, and anything that could be seen as competing with their store.
+
 ## Regional Parameters (API Steam)
 To change the search region, use the codes below in the `cc` and `l` parameters of your request URL:
 
@@ -98,6 +100,8 @@ Through __GitHub Actions__, an innovative __CI/CD__ logic ensures the project's 
 
 Telegram, in conjunction with BotFather, acts exclusively as the interface for viewing notifications of promotions defined by the project. If you are not familiar with creating bots on Telegram or generating API keys, we recommend following the official [Telegram Documentation Guide](https://core.telegram.org/bots/tutorial).
 
+**Telegram Bot API:** Telegram's [terms of service](https://telegram.org/tos) are more permissive for bots, but prohibit spam and unsolicited mass notifications.
+
 # Unit Testing with pytest and Mock
  
 A unit test verifies whether a function works correctly in **isolation**, without relying on anything external — such as APIs, the internet, or files on disk.
@@ -115,3 +119,11 @@ Development in 2025 by pedroryandatadev (Pedro Ryan)
 
 This project is licensed under the Apache 2.0 License. See the LICENSE file for more information.
 ```
+
+You must comply with each provider's terms independently.
+
+### Disclaimer
+
+This project is intended for personal and educational use only.
+The author is not responsible for any misuse of this code or 
+violations of third-party API terms of service by its users.
