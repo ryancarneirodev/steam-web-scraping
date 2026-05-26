@@ -115,15 +115,7 @@ The `@patch` decorator automates this swap: it replaces the real object with the
 ## LICENSE
 
 ```
-Development in 2025 by pedroryandatadev (Pedro Ryan)
+Development in 2025 by RyanCarneiroDev
 
 This project is licensed under the Apache 2.0 License. See the LICENSE file for more information.
 ```
-
-You must comply with each provider's terms independently.
-
-### Disclaimer
-
-This project is intended for personal and educational use only.
-The author is not responsible for any misuse of this code or 
-violations of third-party API terms of service by its users.
