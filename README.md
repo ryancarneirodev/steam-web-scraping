@@ -1,13 +1,13 @@
 <h1 align="center">Steam Web Scraping </h1>
 
 <p align="center">
-    <img src="https://pedroryandatadev.github.io/portfolio/badge/tech/telegram-enable.svg" alt="Telegram Enable">
-    <img src="https://pedroryandatadev.github.io/portfolio/badge/tech/api-request.svg" alt="Api Request">
-    <img src="https://pedroryandatadev.github.io/portfolio/badge/tech/python-38.svg" alt="Python Version">
-    <img src="https://pedroryandatadev.github.io/portfolio/badge/tech/license-apache2.svg" alt="License Apache 2.0"><br>
-    <a href="https://share.streamlit.io/user/pedroryandatadev"><img src="https://pedroryandatadev.github.io/portfolio/badge/profile/streamlit-profile.svg" alt="Profile Streamlit"/></a>
-    <a href="https://www.figma.com/@pedroryandev"><img src="https://pedroryandatadev.github.io/portfolio/badge/profile/figma-profile.svg" alt="Profile Figma" /></a>
-    <a href="https://github.com/pedroryandatadev"><img src="https://pedroryandatadev.github.io/portfolio/badge/profile/github-profile.svg" alt="Profile Github"/></a>   
+    <img src="https://RyanCarneiroDev.github.io/portfolio/badge/tech/telegram-enable.svg" alt="Telegram Enable">
+    <img src="https://RyanCarneiroDev.github.io/portfolio/badge/tech/api-request.svg" alt="Api Request">
+    <img src="https://RyanCarneiroDev.github.io/portfolio/badge/tech/python-38.svg" alt="Python Version">
+    <img src="https://RyanCarneiroDev.github.io/portfolio/badge/tech/license-apache2.svg" alt="License Apache 2.0"><br>
+    <a href="https://share.streamlit.io/user/RyanCarneiroDev"><img src="https://RyanCarneiroDev.github.io/portfolio/badge/profile/streamlit-profile.svg" alt="Profile Streamlit"/></a>
+    <a href="https://www.figma.com/@pedroryandev"><img src="https://RyanCarneiroDev.github.io/portfolio/badge/profile/figma-profile.svg" alt="Profile Figma" /></a>
+    <a href="https://github.com/RyanCarneiroDev"><img src="https://RyanCarneiroDev.github.io/portfolio/badge/profile/github-profile.svg" alt="Profile Github"/></a>   
 </p>
 
 This web scraping project consists of an automatic Steam price monitor. It acts as a true sentinel, periodically checking if games of interest reach a predefined price or percentage discount and sending a notification via Telegram as soon as an offer is indicated.
