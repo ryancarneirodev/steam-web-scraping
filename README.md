@@ -1,13 +1,13 @@
 <h1 align="center">Steam Web Scraping </h1>
 
 <p align="center">
-    <img src="https://RyanCarneiroDev.github.io/portfolio/badge/tech/telegram-enable.svg" alt="Telegram Enable">
-    <img src="https://RyanCarneiroDev.github.io/portfolio/badge/tech/api-request.svg" alt="Api Request">
-    <img src="https://RyanCarneiroDev.github.io/portfolio/badge/tech/python-38.svg" alt="Python Version">
-    <img src="https://RyanCarneiroDev.github.io/portfolio/badge/tech/license-apache2.svg" alt="License Apache 2.0"><br>
-    <a href="https://share.streamlit.io/user/RyanCarneiroDev"><img src="https://RyanCarneiroDev.github.io/portfolio/badge/profile/streamlit-profile.svg" alt="Profile Streamlit"/></a>
-    <a href="https://www.figma.com/@pedroryandev"><img src="https://RyanCarneiroDev.github.io/portfolio/badge/profile/figma-profile.svg" alt="Profile Figma" /></a>
-    <a href="https://github.com/RyanCarneiroDev"><img src="https://RyanCarneiroDev.github.io/portfolio/badge/profile/github-profile.svg" alt="Profile Github"/></a>   
+    <img src="https://ryancarneirodev.github.io/portfolio/badge/tech/telegram-enable.svg" alt="Telegram Enable">
+    <img src="https://ryancarneirodev.github.io/portfolio/badge/tech/api-request.svg" alt="Api Request">
+    <img src="https://ryancarneirodev.github.io/portfolio/badge/tech/python-38.svg" alt="Python Version">
+    <img src="https://ryancarneirodev.github.io/portfolio/badge/tech/license-apache2.svg" alt="License Apache 2.0"><br>
+    <a href="https://share.streamlit.io/user/ryancarneirodev"><img src="https://ryancarneirodev.github.io/portfolio/badge/profile/streamlit-profile.svg" alt="Profile Streamlit"/></a>
+    <a href="https://www.figma.com/@ryancarneirodev"><img src="https://ryancarneirodev.github.io/portfolio/badge/profile/figma-profile.svg" alt="Profile Figma" /></a>
+    <a href="https://github.com/ryancarneirodev"><img src="https://ryancarneirodev.github.io/portfolio/badge/profile/github-profile.svg" alt="Profile Github"/></a>   
 </p>
 
 This web scraping project consists of an automatic Steam price monitor. It acts as a true sentinel, periodically checking if games of interest reach a predefined price or percentage discount and sending a notification via Telegram as soon as an offer is indicated.
@@ -58,8 +58,6 @@ CONFIG_COUNTRY = {
 }
 ```
 
-**Steam Web API:** Valve has [specific terms](https://steamcommunity.com/dev/apiterms) that prohibit commercial use of their data without authorization, aggressive scraping, and anything that could be seen as competing with their store.
-
 ## Regional Parameters (API Steam)
 To change the search region, use the codes below in the `cc` and `l` parameters of your request URL:
 
@@ -100,8 +98,6 @@ Through __GitHub Actions__, an innovative __CI/CD__ logic ensures the project's 
 
 Telegram, in conjunction with BotFather, acts exclusively as the interface for viewing notifications of promotions defined by the project. If you are not familiar with creating bots on Telegram or generating API keys, we recommend following the official [Telegram Documentation Guide](https://core.telegram.org/bots/tutorial).
 
-**Telegram Bot API:** Telegram's [terms of service](https://telegram.org/tos) are more permissive for bots, but prohibit spam and unsolicited mass notifications.
-
 # Unit Testing with pytest and Mock
  
 A unit test verifies whether a function works correctly in **isolation**, without relying on anything external — such as APIs, the internet, or files on disk.
@@ -115,7 +111,7 @@ The `@patch` decorator automates this swap: it replaces the real object with the
 ## LICENSE
 
 ```
-Development in 2025 by RyanCarneiroDev
+Development in 2025 by ryancarneirodev
 
 This project is licensed under the Apache 2.0 License. See the LICENSE file for more information.
 ```
